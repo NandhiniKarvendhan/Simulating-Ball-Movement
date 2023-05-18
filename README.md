@@ -5,6 +5,7 @@
 This repository contains 3 files.  
 1. moveBall_1D.html.
     - Moving a ball in horizontal direction.
+    - [Demo](https://nandhinikarvendhan.github.io/Simulating-Ball-Movement/moveBall_1D.html)
 3. moveBall_2D.html.
     - Moving a ball in both horizontal and vertical direction.
 4. moving7Balls.html.
